@@ -17,4 +17,7 @@ h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-/* comentários */
+/* Classes e ID */
+.p_texto {
+    color: darkolivegreen;
+}
