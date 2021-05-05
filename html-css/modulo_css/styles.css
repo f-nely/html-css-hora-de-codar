@@ -25,3 +25,18 @@ h2 {
 #titulo_app {
     color: darkslateblue;
 }
+
+/* Cores */
+.nome {
+    color: olivedrab;
+}
+
+.hexa {
+    color: #596d8f;
+}
+
+.rgba {
+    color: rgba(48, 99, 55, .5);
+}
+
+/* colorpicker hexadecimal */
