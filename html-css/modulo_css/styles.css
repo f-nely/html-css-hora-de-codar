@@ -39,4 +39,14 @@ h2 {
     color: rgba(48, 99, 55, .5);
 }
 
-/* colorpicker hexadecimal */
+/* Backgrounds */
+.div_background {
+    background-image: url(img/por_do_sol.jpg);
+    height: 400px;
+}
+
+.titulo_background {
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+}
