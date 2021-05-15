@@ -95,6 +95,7 @@ h2 {
     background-color: darkcyan;
     /* top, right-left, bottom*/
     padding: 30px 20px 5px;
+    border: 2px dashed #ccc;
 }
 
 .paragrafo_box {
