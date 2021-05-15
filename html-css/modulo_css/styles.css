@@ -87,3 +87,18 @@ h2 {
 .variant {
     font-variant: small-caps;
 }
+
+/* Box model*/
+.box_model {
+    width: 200px;
+    height: 200px;
+    background-color: darkcyan;
+    /* top, right-left, bottom*/
+    padding: 30px 20px 5px;
+}
+
+.paragrafo_box {
+    font-family: Geneva, Tahoma, sans-serif;
+    color: #fccf03;
+    margin: 0;
+}
