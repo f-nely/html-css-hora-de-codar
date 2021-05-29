@@ -121,3 +121,11 @@ h2 {
 .static {
     position: static;
 }
+
+/* position - relative*/
+.relative {
+    position: relative;
+    background-color: #42f572;
+    top: 100px;
+    left: 50px;
+}
