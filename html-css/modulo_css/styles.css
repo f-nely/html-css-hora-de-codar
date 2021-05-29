@@ -129,3 +129,18 @@ h2 {
     top: 100px;
     left: 50px;
 }
+
+/* position - absolute*/
+.absolute {
+    position: absolute;
+    background-color: #e68020;
+    right: 0;
+    top: 0;
+}
+
+.mini-div {
+    height: 50px;
+    width: 50px;
+    top: 50px;
+    left: 100px;
+}
