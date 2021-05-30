@@ -144,3 +144,12 @@ h2 {
     top: 50px;
     left: 100px;
 }
+
+/* position - fixed */
+.fixed {
+    position: fixed;
+    height: 200px;
+    background-color: #abb81f;
+    bottom: 0;
+    right: 0;
+}
