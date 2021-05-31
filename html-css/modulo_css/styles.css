@@ -185,6 +185,10 @@ h2 {
     color: #696969;
 }
 
+.clear {
+    clear: both;
+}
+
 a {
     color: #4682B4;
     text-decoration: none;
