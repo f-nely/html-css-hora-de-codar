@@ -209,3 +209,21 @@ a:hover {
     width: 200px;
     height: 100px;
 }
+
+.pai-porcentagem {
+    background-color: #B8860B;
+    height: 500px;
+    width: 500px;
+}
+
+.porcentagem-1 {
+    background-color: #BC8F8F;
+    height: 50%;
+    width: 50%;
+}
+
+.porcentagem-2 {
+    background-color: #FF8C00;
+    height: 50%;
+    width: 50%;
+}
