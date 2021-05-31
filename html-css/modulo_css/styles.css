@@ -197,3 +197,15 @@ a {
 a:hover {
     color: #2F4F4F;
 }
+
+.pixel-1 {
+    background-color: #1E90FF;
+    width: 100px;
+    height: 100px;
+}
+
+.pixel-2 {
+    background-color: #6B8E23;
+    width: 200px;
+    height: 100px;
+}
