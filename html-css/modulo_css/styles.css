@@ -167,12 +167,29 @@ h2 {
     padding: 50px;
 }
 
+.div-float {
+    overflow: auto;
+}
+
 .img-float {
     width: 200px;
     height: 200px;
     float: left;
 }
 
+.float-right {
+    float: right;
+}
+
 .p-float {
-    color: #309c13;
+    color: #696969;
+}
+
+a {
+    color: #4682B4;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #2F4F4F;
 }
