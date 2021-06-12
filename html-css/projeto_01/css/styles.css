@@ -30,3 +30,41 @@ html {
 .paragrafo-principal {
     font-style: italic;
 }
+
+/* corpo do site */
+
+.img-destaque {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* biografia container */
+
+.container-repeat {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #DDD;
+    border-bottom: 1px dashed #DDD;
+}
+
+/* citações */
+
+.frase-container {
+    background-color: #DDD;
+    padding: 30px;
+}
+
+.frase-container blockquote {
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.frase-container p {
+    font-style: italic;
+}
+
+/* curiosidades */
+
+.curiosidade-container li {
+    height: 30px;
+}
